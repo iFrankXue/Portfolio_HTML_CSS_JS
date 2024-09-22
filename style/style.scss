@@ -458,10 +458,14 @@ section{
     }
 }
 
-
 .portfolio-item:hover .hover-items{
     opacity: 1;
     transform: scale(1);
+}
+
+/* Blogs */
+.blogs{
+    font-size: 1.2rem;
 }
 
 /* Independent component */

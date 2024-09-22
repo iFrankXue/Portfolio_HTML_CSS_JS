@@ -458,6 +458,11 @@ section {
   transform: scale(1);
 }
 
+/* Blogs */
+.blogs {
+  font-size: 1.2rem;
+}
+
 /* Independent component */
 .btn-con {
   display: flex;
